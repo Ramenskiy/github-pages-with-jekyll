@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Evan Ramenskiy"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This page is under development ...
